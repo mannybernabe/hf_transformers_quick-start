@@ -1,3 +1,5 @@
+![Hugging Face Emoji](URL_OF_THE_IMAGE)
+
 # Transformers Quick Start
 
 This repository contains a collection of scripts and notebooks designed to provide a quick start to using the Hugging Face Transformers library for various natural language processing tasks.
