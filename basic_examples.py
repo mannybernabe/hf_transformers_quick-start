@@ -2,7 +2,7 @@
 from transformers import pipeline
 import torch
 
-Example 1 -- Sentiment analysis
+# Example 1 -- Sentiment analysis
 
 classifier = pipeline("sentiment-analysis")
 
@@ -28,7 +28,6 @@ print(res)
 
 
 # Example 3 -- Zero shot classification
-
 classifier = pipeline("zero-shot-classification")
 
 res = classifier(

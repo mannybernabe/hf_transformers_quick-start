@@ -1,5 +1,5 @@
 
-# 2 More Verbose
+# Advanced usage of tokenizer
 
 from transformers import pipeline
 import torch
