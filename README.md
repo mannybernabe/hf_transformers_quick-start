@@ -1,4 +1,4 @@
-![Hugging Face Emoji](URL_OF_THE_IMAGE)
+![Hugging Face Emoji](https://github.com/mannybernabe/hf_transformers_quick-start/blob/main/images/image.png)
 
 # Transformers Quick Start
 
