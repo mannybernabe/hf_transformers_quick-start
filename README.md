@@ -1,6 +1,6 @@
 ![Hugging Face Emoji](https://github.com/mannybernabe/hf_transformers_quick-start/blob/main/images/image.png)
 
-# Transformers Quick Start
+# Hugging Face Transformers Quick Start
 
 This repository contains a collection of scripts and notebooks designed to provide a quick start to using the Hugging Face Transformers library for various natural language processing tasks.
 
